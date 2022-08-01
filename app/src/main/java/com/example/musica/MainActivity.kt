@@ -11,16 +11,15 @@ import android.widget.Toast
 class MainActivity : AppCompatActivity() {
     private lateinit var Bplay:Button
     private lateinit var Bpause:Button
-    private lateinit var BNext:Button
     private lateinit var MPlayer:MediaPlayer
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        supportActionBar?.title = "Radio La Ranchera"
 
         Bplay = findViewById<Button>(R.id.buttonPlay)
         Bpause = findViewById<Button>(R.id.buttonPause)
-        BNext = findViewById<Button>(R.id.buttonNext)
 
         LaRanchera()
     }
