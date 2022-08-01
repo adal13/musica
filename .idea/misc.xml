@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Cursos/Kotlin/musica/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Cursos/Kotlin/musica/app/src/main/res/drawable/song_icon.xml" value="0.162" />
+        <entry key="..\:/Cursos/Kotlin/musica/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Cursos/Kotlin/musica/app/src/main/res/layout/activity_onda.xml" value="0.203125" />
       </map>
     </option>
   </component>
