@@ -16,10 +16,12 @@
         <ImageView
             android:id="@+id/album_image"
             android:layout_width="match_parent"
+            android:layout_marginRight="25dp"
+            android:layout_marginLeft="25dp"
             android:layout_height="416dp"
             android:layout_gravity="top"
             android:layout_marginTop="5dp"
-            android:src="@drawable/micro"
+            android:src="@drawable/la_ranchera"
             android:visibility="visible" />
 
         <TextView
