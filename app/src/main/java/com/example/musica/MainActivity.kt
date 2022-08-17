@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun LaRanchera(){
 
-        var url = "https://21633.live.streamtheworld.com/LOS40_SC"
+        var url = "https://ranchera.stream.laut.fm/ranchera?ref=radiode&t302=2022-08-05_09-47-15&uuid=894bba3e-1935-4830-8141-f804768c8113"
 
 
         MPlayer = MediaPlayer()
